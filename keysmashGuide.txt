@@ -1,0 +1,28 @@
+Key Mash
+
+File Extension:
+.kdfge
+
+Date Table
+--------------------------
+cbff  | Print
+kjhr  | Declare a Varible
+dfjio | If statement
+riojk | Elif Statement
+yuj   | Else Statement
+mdkl  | Input Command
+sdjk  | Comment Command
+
+Key Mash                         | Python
+----------------------------------------------------------------------
+cbff "Whats the Value"           | print("Whats the Value")
+kjhr a = ""                      | a = ""
+mdkl a                           | a = input("? "")
+                                 |
+dfjio a == "3":                  | if a == "3":
+    cbff "A is equal to 3"       |     print("A is equal to 3")
+riojk a == "2":                  | elif a == "2":
+    cbff "A is equivalent to 2"  |     print("A is equivalent to 2")
+    sdjk Means A is equal to 2   |     # Means A is equal to 2
+yuj:                             | else:
+    cbff "What tf is A"          |     print("What tf is A")            

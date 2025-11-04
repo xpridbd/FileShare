@@ -1,0 +1,33 @@
+MineCode
+
+File Extension:
+.mc
+
+Date Table
+--------------------------
+/say      | Print
+/summon   | Declare a Varible
+/execute  | If statement
+/testfor  | Elif Statement
+/trigger  | Else Statement
+/dialogue | Input Command
+/r        | Comment Command
+/deop     | False
+/op       | True
+/data     | Read a file 
+/save     | Writing to a file
+
+MineCode                       | Python
+----------------------------------------------------------------------
+/say "Whats the Value"          | print("Whats the Value")
+/summon a = ""                  | a = ""
+/dialogue a                     | a = input("? "")
+                                |
+/execute a == "3" {             | if a == "3":
+    /say "A is equal to 3"      |     print("A is equal to 3")
+} /testfor a == "2"{            | elif a == "2":
+    /say "A is equivalent to 2" |     print("A is equivalent to 2")
+    /r Means A is equal to 2    |     # Means A is equal to 2
+} /trigger {                    | else:
+    /say "What tf is A"         |     print("What tf is A")     
+}                               |

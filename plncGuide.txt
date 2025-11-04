@@ -1,0 +1,34 @@
+PLNC
+Peak Language No Cap
+
+File Extension:
+.bussin
+
+Date Table
+--------------------------
+yap      | Print
+lowkey   | Declare a Varible
+bet      | If statement
+peak     | Elif Statement
+sus      | Else Statement
+rizz     | Input Command
+W or L   | Comment Command
+cap      | False
+facts    | True
+ghosting | Read a file 
+simp     | Writing to a file
+
+PLNC                           | Python
+----------------------------------------------------------------------
+yap "Whats the Value"          | print("Whats the Value")
+lowkey a = ""                  | a = ""
+rizz a                         | a = input("? "")
+                               |
+bet a == "3" {                 | if a == "3":
+    yap "A is equal to 3"      |     print("A is equal to 3")
+} peak a == "2"{               | elif a == "2":
+    yap "A is equivalent to 2" |     print("A is equivalent to 2")
+    W Means A is equal to 2    |     # Means A is equal to 2
+} sus {                        | else:
+    yap "What tf is A"         |     print("What tf is A")     
+}                              |
